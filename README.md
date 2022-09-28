@@ -7,3 +7,7 @@ TO RUN:
 Download files
 load the index.html file into your browser
 Move mouse around to track bus locations
+
+!Licensing Information!
+
+This code is licensed by MIT and all subsequent copies of this repository should include this information.
